@@ -262,4 +262,6 @@ var methods = {};
 
 Request.implement(methods);
 
+return Request;
+
 });
